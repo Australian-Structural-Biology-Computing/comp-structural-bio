@@ -13,7 +13,7 @@ theme_variables:
   # biocommons blue
   theme_color: 2cb77c
   topnav:
-    brand_logo: assets/img/Australian-Biocommons-Logo-Tagline-Community-RGB.png
+    brand_logo: assets/img/Australian-Biocommons-Logo-Tagline-Community-RGB-Reversed.png
 
 exclude:
   - README.md
