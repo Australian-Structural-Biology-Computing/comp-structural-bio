@@ -1,10 +1,10 @@
-title: How-to Guide
+title: Computational Structural Biology Community
 # This appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
 #topnav_title: Website title
 # Optional: this appears on the top navigation bar next to the main_logo.svg icon
 
-description: "A bioinformatics focused How-to Guide"
+#description: "A bioinformatics focused How-to Guide"
 # Metadata description of the website
 
 remote_theme: ELIXIR-Belgium/elixir-toolkit-theme@2.3.0

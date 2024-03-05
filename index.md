@@ -1,5 +1,5 @@
 ---
-title: Computational Structural Biology Community
+title: About
 description: Add a plain text description here.
 affiliations: 
 ---
