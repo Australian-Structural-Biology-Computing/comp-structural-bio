@@ -11,7 +11,7 @@ remote_theme: ELIXIR-Belgium/elixir-toolkit-theme@2.5.0
 
 theme_variables:
   # biocommons blue
-  theme_color: 205a86
+  theme_color: 2cb77c
   topnav:
     brand_logo: assets/img/Australian-Biocommons-Logo-Tagline-Community-RGB.png
 
