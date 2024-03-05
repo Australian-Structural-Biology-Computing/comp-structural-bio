@@ -3,7 +3,7 @@ $font-family-theme: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neu
 $h2-color: $primary;
 
 /*-----Buttons hover style-----*/
-$btn-primary-bg-hover: $primary;
+$btn-primary-bg-hover: $secondary;
 $btn-primary-color-hover: $white;
 
 /*-----Top navigation-----*/
@@ -21,7 +21,7 @@ $sidebar-lvl2-bg: $white;
 $sidebar-lvl2-color: $dark;
 $sidebar-lvl3-bg: $white;
 $sidebar-lvl3-color: $dark;
-$sidebar-bg-active: $primary;
+$sidebar-bg-active: $secondary;
 $sidebar-color-active: $white;
 
 /*-----Section navigation tiles-----*/
@@ -31,7 +31,7 @@ $nav-card-header-color: $white;
 $nav-card-badge-color: $body-color;
 $nav-card-badge-bg: $white;
 $nav-card-badge-color-hover: $white;
-$nav-card-badge-bg-hover: $primary;
+$nav-card-badge-bg-hover: $secondary;
 
 /*-----More information tiles-----*/
 $info-card-bg: $light;
@@ -63,6 +63,6 @@ $badge-bg-hover: $primary;
 $footer-bg: $light;
 $footer-color: $dark;
 $footer-link-color: $dark;
-$footer-link-color-hover: $primary;
+$footer-link-color-hover: $secondary;
 $footer-copyright-bg: $gray-200;
 $footer-ett: $dark;
