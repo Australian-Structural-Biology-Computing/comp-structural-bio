@@ -1,7 +1,5 @@
 ---
-title: How-to Guide landing page template
-type: template
-contributors: 
+title: Computational Structural Biology Community
 description: Add a plain text description here.
 affiliations: 
 ---
